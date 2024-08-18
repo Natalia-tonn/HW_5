@@ -1,0 +1,16 @@
+
+
+.nav_box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 55px;
+    margin-left: 35px;
+    width: 139px;
+    height: 45px;
+
+}
+.text_spoti{
+    font-size: 20px;
+color: #1ED760;
+margin-top: 11px;
+}

@@ -1,12 +1,13 @@
 import './App.css';
-import List from './components/list';
-import Rating from './components/rating';
+import Nav from './components/Nav';
+import Main from './components/Main';
+
 
 function App() {
   return (
-    <div>
-      <Rating />
-      <List></List>
+    <div className='container'>
+   <Nav/>
+   <Main/>
     </div>
   );
 }
